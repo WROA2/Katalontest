@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginEmailPasswordContinueForgot your password</name>
+   <tag></tag>
+   <elementGuidId>32b91a1f-1a8e-4f09-9158-ce19e4f1fc79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-hLBbgP.kLAchR</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b94e2763-e0ee-4731-b37e-58a7ffc6fb68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hLBbgP kLAchR</value>
+      <webElementGuid>8c164d23-32d7-4fbc-8a17-fccd4c63bdc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginEmailPasswordContinueForgot your password?</value>
+      <webElementGuid>61d31b6f-5fc9-4ad4-beab-4ea1906a5e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module&quot;)/div[@class=&quot;sc-bcXHqe cjZwwm&quot;]/div[@class=&quot;sc-gswNZR hvelde&quot;]/div[@class=&quot;sc-hLBbgP kLAchR&quot;]</value>
+      <webElementGuid>6bb3b095-4f3c-4c12-a3f0-6c73cec0ea11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module']/div/div/div</value>
+      <webElementGuid>04b00c8f-c054-412a-959c-cc3b04f8a598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>e6511f3f-ca76-4081-96a7-c4a90e19e968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginEmailPasswordContinueForgot your password?' or . = 'LoginEmailPasswordContinueForgot your password?')]</value>
+      <webElementGuid>6b64660c-49c9-477d-8ed9-b3f50f431f41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

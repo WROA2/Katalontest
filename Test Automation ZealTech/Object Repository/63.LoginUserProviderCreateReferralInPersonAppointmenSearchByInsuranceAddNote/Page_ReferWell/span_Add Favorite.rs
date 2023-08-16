@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Favorite</name>
+   <tag></tag>
+   <elementGuidId>7c6315ac-5a76-47f0-8810-180cf13c86d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='F7E1228F-B7FC-4FB2-B752-0000498CF609']/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>266b64c2-3211-4b44-b0ba-85083cddb6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>55e1a51a-bc75-4c4f-885e-1ec376b0f68d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Favorite</value>
+      <webElementGuid>4b31a9f2-b14a-4f7e-8798-a3341c79aea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-doctors&quot;)/div[@class=&quot;search-data table-responsive&quot;]/table[@class=&quot;slots-table table table-bordered&quot;]/tbody[1]/tr[1]/td[@class=&quot;location-td&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@id=&quot;F7E1228F-B7FC-4FB2-B752-0000498CF609&quot;]/a[1]/span[@class=&quot;small&quot;]</value>
+      <webElementGuid>2a8bf2fa-11af-4a52-8b28-cb983fd2b9e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='F7E1228F-B7FC-4FB2-B752-0000498CF609']/a/span[2]</value>
+      <webElementGuid>edf498bd-0b15-40bc-b1a3-3ec11895a17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tue'])[1]/following::span[2]</value>
+      <webElementGuid>5d060096-9f16-46ee-8ab3-9c7b36024a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon'])[1]/following::span[2]</value>
+      <webElementGuid>9da202f5-4ca9-4f4c-ab61-72fbcb2f3f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(555) 555-5555'])[1]/preceding::span[1]</value>
+      <webElementGuid>1935c125-8455-49b7-a84c-9492605e6a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monzur Morshed'])[1]/preceding::span[1]</value>
+      <webElementGuid>f2ec31a3-46e5-4752-90be-a70eaff5f815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Favorite']/parent::*</value>
+      <webElementGuid>46d8040e-be24-4b9c-bda0-cf11c7296bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span[2]</value>
+      <webElementGuid>1ca1b0c3-1315-452e-9ba8-6faeb73a32f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Favorite' or . = 'Add Favorite')]</value>
+      <webElementGuid>96f40161-fc0d-45dd-a3c8-04e4820940ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

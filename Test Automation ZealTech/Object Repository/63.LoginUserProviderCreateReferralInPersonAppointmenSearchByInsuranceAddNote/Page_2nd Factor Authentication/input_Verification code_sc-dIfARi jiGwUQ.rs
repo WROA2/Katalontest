@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Verification code_sc-dIfARi jiGwUQ</name>
+   <tag></tag>
+   <elementGuidId>2b8d3a3c-2455-484a-9b1f-7b8f966cc0bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.sc-dIfARi.jiGwUQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>747d37fd-3ada-4db8-bab4-e5c297325d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter the provided 6 digit code</value>
+      <webElementGuid>7faf3758-a313-46dc-a046-bf68b8bd544d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>50426b96-c814-44a6-8a45-a6b316f8288c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dIfARi jiGwUQ</value>
+      <webElementGuid>bc849048-db9a-4c69-86ed-0db1aedb3a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module&quot;)/div[@class=&quot;sc-iBYQkv iVbAYJ&quot;]/div[@class=&quot;sc-ftTHYK hMCeBf&quot;]/div[@class=&quot;sc-bqWxrE cqjFBF&quot;]/div[@class=&quot;sc-ksBlkl docfmj hidden&quot;]/div[3]/input[@class=&quot;sc-dIfARi jiGwUQ&quot;]</value>
+      <webElementGuid>f3f86312-2d49-4d21-9301-d2ade920fffb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>80dee9df-b9a9-42e0-a48a-a870cf581e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module']/div/div[2]/div[2]/div/div[3]/input</value>
+      <webElementGuid>66c70886-5812-426a-beb5-02802b24ad11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>a3435036-ed5d-4eaf-9b9f-4892bd68551e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter the provided 6 digit code' and @type = 'text']</value>
+      <webElementGuid>5a7e5746-1e55-4e78-8abd-f020c7e3007b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

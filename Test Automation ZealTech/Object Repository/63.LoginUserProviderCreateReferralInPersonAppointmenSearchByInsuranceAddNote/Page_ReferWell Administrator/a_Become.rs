@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Become</name>
+   <tag></tag>
+   <elementGuidId>c9214463-3601-40e8-be1b-f47d2d567616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='doctors-management-table']/tbody/tr[2]/td[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.selected > td.text-center > a.btn.btn-primary.pretend-doctor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9d25731e-9f40-4fd1-bcfd-ff5299a3a9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/administrator/pretend/101</value>
+      <webElementGuid>7db6e920-c26d-46cd-abaa-f6635a54f41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pretend-doctor</value>
+      <webElementGuid>1f107bcf-512a-47a8-b9f1-71295fb9e584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Become</value>
+      <webElementGuid>e30ab24d-8783-4a4c-8208-94a80cce6c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;doctors-management-table&quot;)/tbody[1]/tr[@class=&quot;selected&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;btn btn-primary pretend-doctor&quot;]</value>
+      <webElementGuid>4e197666-e06b-4262-bb35-fd2d41e4dfff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='doctors-management-table']/tbody/tr[2]/td[6]/a</value>
+      <webElementGuid>e8d2d245-341d-492d-957d-1841c83f2db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Become')])[2]</value>
+      <webElementGuid>8692fe22-74cf-46ca-91c8-729450ed4712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jose.boggio.p1@direct.cchn.nextgenshare.com'])[1]/following::a[1]</value>
+      <webElementGuid>b3e3f1d7-9187-4c8a-b62e-83c7438991ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::a[1]</value>
+      <webElementGuid>40dd2c58-c120-4b23-9587-200e51246e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Admin'])[3]/preceding::a[1]</value>
+      <webElementGuid>9f542744-5347-4d50-a6f0-f91d5980dee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elicitos Consulting the consult'])[1]/preceding::a[3]</value>
+      <webElementGuid>b0221283-6243-4a27-9021-f23b844e83fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/administrator/pretend/101')]</value>
+      <webElementGuid>d5f0098d-cd80-40b3-bbb6-2a57945b6f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/a</value>
+      <webElementGuid>0f55e1be-a6cd-4903-896a-12d8e4aeae2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/administrator/pretend/101' and (text() = 'Become' or . = 'Become')]</value>
+      <webElementGuid>f3433429-6dc1-431e-9fa1-52547dc7ef89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
